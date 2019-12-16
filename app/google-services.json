@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "99360711201",
+    "firebase_url": "https://hariom-f0ea3.firebaseio.com",
+    "project_id": "hariom-f0ea3",
+    "storage_bucket": "hariom-f0ea3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99360711201:android:e34113aad847d0fb7a7960",
+        "android_client_info": {
+          "package_name": "com.darpan.hariom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99360711201-s8mapinr659mifijuri7q71d8a5409f5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darpan.hariom",
+            "certificate_hash": "e483efba8ba39256bbc0aa5558a0e1ec21d1bedc"
+          }
+        },
+        {
+          "client_id": "99360711201-q22qpgpim6p6oko3hvv338g7tcta54iq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6COaktUcOeNpUYOYXtTTFI0OARoR0XnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99360711201-q22qpgpim6p6oko3hvv338g7tcta54iq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99360711201:android:22b93648bbfc9ce67a7960",
+        "android_client_info": {
+          "package_name": "com.example.hariom2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99360711201-769ddvbf9q05iscvq6aubohud6fc9r1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hariom2",
+            "certificate_hash": "14eacc3dc571a8a89f8fd2e3526bfedae41c2d9d"
+          }
+        },
+        {
+          "client_id": "99360711201-q22qpgpim6p6oko3hvv338g7tcta54iq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6COaktUcOeNpUYOYXtTTFI0OARoR0XnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99360711201-q22qpgpim6p6oko3hvv338g7tcta54iq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99360711201:android:abe31e17c09f0be97a7960",
+        "android_client_info": {
+          "package_name": "com.example.hariomloginregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99360711201-o8p15l9daqgj8e8e9t6ukcis94mf5ufa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hariomloginregister",
+            "certificate_hash": "14eacc3dc571a8a89f8fd2e3526bfedae41c2d9d"
+          }
+        },
+        {
+          "client_id": "99360711201-q22qpgpim6p6oko3hvv338g7tcta54iq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6COaktUcOeNpUYOYXtTTFI0OARoR0XnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99360711201-q22qpgpim6p6oko3hvv338g7tcta54iq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

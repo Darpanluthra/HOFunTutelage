@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000080</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="actionButton">#808080</color>
+    <color name="Teacherbtn">#0F9CAB</color>
+    <color name="logoButton">#FF0000</color>
+    <color name="Studentbtn">#0DD8EA</color>
+
+
+    0F9CAB
+
+</resources>
